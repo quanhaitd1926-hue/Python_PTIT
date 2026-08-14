@@ -1,3 +1,3 @@
-a = range(10)
-for i in a:
-    print(i, end = " ")
+s = input()
+reversed(s)
+print(type(s))
