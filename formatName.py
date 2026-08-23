@@ -1,6 +1,9 @@
 # def formatName(s):
 #     return " ".join(map(str.capitalize, s.split()))
 
+# def formatName(s):
+#     return s.title()
+
 def formatName(s):
     name_detail = s.split()
     name = ""

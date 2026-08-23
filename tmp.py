@@ -1,3 +1,2 @@
-s = input()
-reversed(s)
-print(type(s))
+s = 1.2
+print(int(s))
